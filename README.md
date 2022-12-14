@@ -1,4 +1,4 @@
-# we have made our developed virtual colonoscopy simulator and **source code** publicly avaialble.
+# we have made our developed virtual colonoscopy simulator and source code publicly avaialble.
 
 Our developed simulator and source code:
 
