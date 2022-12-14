@@ -1,10 +1,10 @@
-# we have made our developed virtual colonoscopy simulator and source code publicly avaialble.
+We have made our developed virtual colonoscopy simulator and source code publicly avaialble.
 
-Our developed simulator and source code:
+Our developed simulator and source code: https://drive.google.com/drive/folders/1cypaTsHpi7TRVKI5cYvzk1UfpmdcOEts?usp=sharing
 
-# If you use the developed simulator and datasets in your papers, please cite our paper named "A Template-based 3D Reconstruction of Colon Structures and Textures from Stereo Colonoscopic Images", thank you very much!
+If you use the developed simulator and datasets in your papers, please cite our paper named "A Template-based 3D Reconstruction of Colon Structures and Textures from Stereo Colonoscopic Images", thank you very much!
 
-# If you have any questions related to our simulator, please contact me by email: shuai.zhang@student.uts.edu.au or zsustc@gmail.com
+If you have any questions related to our simulator, please contact me by email: shuai.zhang@student.uts.edu.au or zsustc@gmail.com
 
 For the usgae of related parameters in the developed simulator: The example to obtain camera intrinsic parameters, camera extrinsic parameters and point cloud of one frame:
 
